@@ -34,85 +34,85 @@ textarea {
 
 @font-face {
     font-family: Parimatch;
-    src: url(/src/app/media/Parimatch-Bold.0641eea0.otf);
+    src: url(../media/Parimatch-Bold.0641eea0.otf);
     font-weight: 700
 }
 
 @font-face {
     font-family: Parimatch;
-    src: url(/src/app/media/Parimatch-Medium.d35557f5.otf);
+    src: url(../media/Parimatch-Medium.d35557f5.otf);
     font-weight: 500
 }
 
 @font-face {
     font-family: Parimatch;
-    src: url(/src/app/media/Parimatch-Regular.8ccf705e.ttf);
+    src: url(../media/Parimatch-Regular.8ccf705e.ttf);
     font-weight: 400
 }
 
 @font-face {
     font-family: Parimatch;
-    src: url(/src/app/media/Parimatch-Light.283f1901.otf);
+    src: url(../media/Parimatch-Light.283f1901.otf);
     font-weight: 300
 }
 
 @font-face {
     font-family: Parimatch;
-    src: url(/src/app/media/Parimatch-Thin.048bdb71.otf);
+    src: url(../media/Parimatch-Thin.048bdb71.otf);
     font-weight: 100
 }
 
 @font-face {
     font-family: TTFirs;
-    src: url(/src/app/media/TTFirs-ExtraBold.3b2c291d.ttf);
+    src: url(../media/TTFirs-ExtraBold.3b2c291d.ttf);
     font-weight: 800
 }
 
 @font-face {
     font-family: TTFirs;
-    src: url(/src/app/media/TTFirsNeue-Bold.15250dfc.ttf);
+    src: url(../media/TTFirsNeue-Bold.15250dfc.ttf);
     font-weight: 700
 }
 
 @font-face {
     font-family: TTFirs;
-    src: url(/src/app/media/TTFirsNeue-SemiBold.ca3af738.ttf);
+    src: url(../media/TTFirsNeue-SemiBold.ca3af738.ttf);
     font-weight: 600
 }
 
 @font-face {
     font-family: TTFirs;
-    src: url(/src/app/media/TTFirs-Medium.e93eaeb2.ttf);
+    src: url(../media/TTFirs-Medium.e93eaeb2.ttf);
     font-weight: 500
 }
 
 @font-face {
     font-family: TTFirs;
-    src: url(/src/app/media/TTFirs-Regular.1f94ca33.ttf);
+    src: url(../media/TTFirs-Regular.1f94ca33.ttf);
     font-weight: 400
 }
 
 @font-face {
     font-family: TTFirs;
-    src: url(/src/app/media/TTFirs-Light.1d28ac97.ttf);
+    src: url(../media/TTFirs-Light.1d28ac97.ttf);
     font-weight: 300
 }
 
 @font-face {
     font-family: Rubik;
-    src: url(/src/app/media/Rubik-Regular.9afc9467.woff2);
+    src: url(../media/Rubik-Regular.9afc9467.woff2);
     font-weight: 400
 }
 
 @font-face {
     font-family: Rubik;
-    src: url(/src/app/media/Rubik-Bold.9afc9467.woff2);
+    src: url(../media/Rubik-Bold.9afc9467.woff2);
     font-weight: 700
 }
 
 @font-face {
     font-family: RubikItalic;
-    src: url(/src/app/media/Rubik-Bold-Italic.91b81497.woff2);
+    src: url(../media/Rubik-Bold-Italic.91b81497.woff2);
     font-weight: 700
 }
 

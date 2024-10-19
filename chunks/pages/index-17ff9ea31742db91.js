@@ -820,7 +820,7 @@
         e.exports = "./media/REGISTER.png";
     },
     2018: function(e) {
-        e.exports = "/src/app/images/btn-hover1-f3815dff41c218c8211a70e47831273a.png"
+        e.exports = "./images/btn-hover1-f3815dff41c218c8211a70e47831273a.png"
     },
     7259: function(e) {
         e.exports = "./media/MAIS-PREMIOS.png"
@@ -832,7 +832,7 @@
         e.exports = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAACKBAMAAABoa6RpAAAAJFBMVEUAAAD///////////////////////////////////////////+0CY3pAAAAC3RSTlMAgM8QIFC/QDCQYL7wqg0AAAEESURBVGje7dcxToJREEXhIWiMVljTaUlDdAMugSW5pd/CZjZHQnNCgGJyOrinnOpr7ktepZRSSimllFK6354PRfR2qFG7v/2V63r3X5Neuj+vnL+6f2vQUzecAtP9M+JsT5xLzFKjVifOJWZTZThgFAeM4YBRHDCGA0ZxwBgOGMUBYzhgFAeM4YBRHDCKA8ZxwCgOGMX5BmM4H2AMp8EYDhjRq8SwJoY+j2kzdIWBozDvcARmYegGs+HdMRiG7jAFx2DgKAwcg4GjMHAUBo7BGA4YxQFjOGAUB4zhgFEcMIYDRnPAnHPGPxgwtJ3/YMDQavyDWW6dR633t84ppZRSSunROwLNM8B16lacmAAAAABJRU5ErkJggg=="
     },
     2843: function(e) {
-        e.exports = "/src/app/images/frame-abe97640b8971c5c51433e7915a6e72b.webp"
+        e.exports = "./images/frame-abe97640b8971c5c51433e7915a6e72b.webp"
     },
     6788: function(e) {
         e.exports = "./media/betberry.png";
@@ -844,7 +844,7 @@
         e.exports = "./media/DENUEVOEE.png";
     },
     4170: function(e) {
-        e.exports = "/src/app/images/wheel-9b0162dea68a4d25973066e5d42dea25.png"
+        e.exports = "./images/wheel-9b0162dea68a4d25973066e5d42dea25.png"
     },
     3967: function(e, n) {
         var t;

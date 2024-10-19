@@ -3,7 +3,7 @@
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background-image: url(/src/app/media/bg-mob.36c82ee0.jpg);
+    background-image: url(../media/bg-mob.36c82ee0.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top;
@@ -13,7 +13,7 @@
 @media(min-width: 1000px) {
     .PageLayout_main-wrapper__0YdTr {
         overflow:hidden;
-        background-image: url(/src/app/media/bg-desktop.726efcd8.jpg)
+        background-image: url(../media/bg-desktop.726efcd8.jpg)
     }
 }
 
@@ -208,7 +208,7 @@
 }
 
 .Footer_footer__right__jTVSy {
-    background: url(/src/app/media/payments-mob.86d5ffee.svg) no-repeat 50%/contain;
+    background: url(../media/payments-mob.86d5ffee.svg) no-repeat 50%/contain;
     width: 94.07vw;
     height: 6.61vw;
     order: 2
@@ -216,7 +216,7 @@
 
 @media(min-width: 1000px) {
     .Footer_footer__right__jTVSy {
-        background:url(/src/app/media/payments.3ba86b1b.svg) no-repeat 50%/contain;
+        background:url(../media/payments.3ba86b1b.svg) no-repeat 50%/contain;
         width: 31.13vw;
         height: 1.75vw
     }
@@ -342,7 +342,7 @@
     bottom: -6.6vw;
     left: -4.4vw;
     content: "";
-    background: url(/src/app/media/main-terms-diamond.5c7c56c1.png) no-repeat 50%/contain;
+    background: url(../media/main-terms-diamond.5c7c56c1.png) no-repeat 50%/contain;
     width: 16.32vw;
     height: 12.01vw
 }
@@ -352,7 +352,7 @@
     top: -5.6vw;
     right: -5vw;
     content: "";
-    background: url(/src/app/media/main-terms-lightning.ecb87235.png) no-repeat 50%/contain;
+    background: url(../media/main-terms-lightning.ecb87235.png) no-repeat 50%/contain;
     width: 16.53vw;
     height: 13.55vw
 }
@@ -457,7 +457,7 @@
 .Spinner_spinner__mgqnO:after {
     position: absolute;
     content: "";
-    background: url(/src/app/media/arrow.33795c28.png) no-repeat 50%/contain;
+    background: url(../media/arrow.33795c28.png) no-repeat 50%/contain;
     width: 7.14vw;
     height: 6.33vw;
     top: 7.2vw;
@@ -549,7 +549,7 @@
     left: 31vw;
     width: 22.313vw;
     height: 22.313vw;
-    background: url(/src/app/media/wheel_button.46c5e310.png) no-repeat 50%/contain;
+    background: url(../media/wheel_button.46c5e310.png) no-repeat 50%/contain;
     border: 0 solid transparent;
     cursor: pointer;
     outline: none;
@@ -662,7 +662,7 @@
 
 .Modal_modal--looser__TGmFO {
     padding-top: 53.83vw;
-    background: url(/src/app/media/looser-modal-mob.0770a587.png) no-repeat 50%/contain;
+    background: url(../media/looser-modal-mob.0770a587.png) no-repeat 50%/contain;
     width: 93.067vw;
     height: 60.2vw;
     border-radius: 5.811vw;
@@ -672,7 +672,7 @@
 @media(min-width: 1000px) {
     .Modal_modal--looser__TGmFO {
         padding-top:22.63vw;
-        background: url(/src/app/media/looser-modal.360a1792.png) no-repeat 50%/contain;
+        background: url(../media/looser-modal.360a1792.png) no-repeat 50%/contain;
         width: 61.495vw;
         height: 24.673vw;
         border-radius: 1.135vw;
@@ -682,7 +682,7 @@
 
 .Modal_modal--winner__O8rt8 {
     padding-top: 50.33vw;
-    background: url(/src/app/media/modal-winner-mob.dcafdfda.png) no-repeat 50%/contain;
+    background: url(../media/modal-winner-mob.dcafdfda.png) no-repeat 50%/contain;
     width: 96.533vw;
     height: 55.333vw;
     left: 48vw
@@ -691,7 +691,7 @@
 .Modal_modal--winner__O8rt8:before {
     content: "";
     position: absolute;
-    background: url(/src/app/media/coin1.0c95d206.png) no-repeat 50%/contain;
+    background: url(../media/coin1.0c95d206.png) no-repeat 50%/contain;
     width: 46.381vw;
     height: 124.739vw;
     top: -27.7vw;
@@ -708,7 +708,7 @@
 .Modal_modal--winner__O8rt8:after {
     content: "";
     position: absolute;
-    background: url(/src/app/media/coin2.4845e846.png) no-repeat 50%/contain;
+    background: url(../media/coin2.4845e846.png) no-repeat 50%/contain;
     width: 87.635vw;
     height: 117.768vw;
     top: -21.7vw;
@@ -722,7 +722,7 @@
 
     .Modal_modal--winner__O8rt8 {
         padding-top: 31.83vw;
-        background: url(/src/app/media/modal-winner.9305959a.png) no-repeat 50%/contain;
+        background: url(../media/modal-winner.9305959a.png) no-repeat 50%/contain;
         width: 77.393vw;
         height: 42.855vw
     }

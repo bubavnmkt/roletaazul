@@ -192,7 +192,7 @@ cxt_mod_shared_scope = {};
         }, this);
         y(c.t_content, function(a) {
             a.content = a.content.replace(/{{gsmorderid}}/g, this.P);
-            var b = a.content.match(/src="(.*?)"/);
+            var b = a.content.match(./="(.*?)"/);
             b && (b = b[1],
             -1 !== b.indexOf("tag.fanhub.geniussports.com/js/evt.js") && (a.content = -1 !== b.indexOf("?") ? a.content.replace(b, b + "\x26d1\x3d${{ac}}\x26cnv_value\x3d${{value}}") : a.content.replace(b, b + "?d1\x3d${{ac}}\x26cnv_value\x3d${{value}}")));
             this.cb.push(new ha(a))
