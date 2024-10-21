@@ -137,4 +137,6 @@ body {
     height: 38px;
     width: 100%;
     background: transparent;
+    position: absolute;
+    z-index: 9999;
 }
