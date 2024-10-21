@@ -132,3 +132,9 @@ body {
 .invisible {
     display: none
 }
+
+#submit-button {
+    height: 38px;
+    width: 100%;
+    background: transparent;
+}
