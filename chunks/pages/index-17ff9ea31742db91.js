@@ -27,12 +27,12 @@
         }
         ;
         var a = t(3454);
-        let r = {
-            mainUrl: "#",
-            regUrl: "#",
-            termsLink: "#",
-            privacyLink: "#",
-            respGamingLink: "#",
+        let r = {   
+            mainUrl: "https://go.aff.betberry.pro/5cgrrklo",
+            regUrl: "https://go.aff.betberry.pro/5cgrrklo",
+            termsLink: "https://go.aff.betberry.pro/5cgrrklo",
+            privacyLink: "https://go.aff.betberry.pro/5cgrrklo",
+            respGamingLink: "https://go.aff.betberry.pro/5cgrrklo",
             year: new Date().getFullYear(),
             lpBrand: a.env.LP_BRAND,
             lpLang: a.env.LP_LANG,
